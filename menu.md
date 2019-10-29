@@ -1,4 +1,4 @@
 1161727
-Panini:
+panini:
 - Primavera
 - vegetariano
