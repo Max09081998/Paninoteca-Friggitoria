@@ -2,5 +2,6 @@
 panini:
 - Primavera
 - vegetariano
+primi:
 
 Paninoteca Padovana
